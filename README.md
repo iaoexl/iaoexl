@@ -1,4 +1,4 @@
-# Hi! I'm iaoexl（睡到人间饭熟时） 👋
+# Hi! 👋 I'm iaoexl（睡到人间饭熟时） 
 
 这里汇总我公开的学习笔记、兴趣项目和资料整理仓库。内容多源于个人兴趣、学习过程中的归纳，以及从选专业以来对相关考试内容的整理。
 
@@ -23,6 +23,14 @@
 - 发现问题：欢迎提 Issue
 - 建议交流：欢迎讨论
 
+## 代码推送与镜像同步说明
+
+本项目的代码推送流程如下：
+
+```text
+本地代码 → AtomGit → 自动镜像同步 → 腾讯云 CNB / GitHub / Gitee
+```
+
 ## 你可以在这些地方找到我 (Find Me Here)
 
 <p align="center">
@@ -37,12 +45,12 @@
     <img src="images/favicon_cnb.ico" width="18" height="18" alt="腾讯云 CNB">&nbsp;腾讯云 CNB
   </a>
   &nbsp;&nbsp;
-  <a href="https://gitee.com/iaoexl" target="_blank" rel="noopener">
-    <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/iaoexl" target="_blank" rel="noopener">
     <img src="images/favicon_github.png" width="18" height="18" alt="GitHub">&nbsp;GitHub
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gitee.com/iaoexl" target="_blank" rel="noopener">
+    <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
   </a>
 </p>
 
